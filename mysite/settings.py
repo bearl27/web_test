@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-1ck8a(=k9io^h8lh)yptt3rr!5oh9#3$3bzn6jfc8d!d*&=4iz
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
-                'https://web-test-ykpu.onrender.com',]
+                'https://web-test-ykpu.onrender.com',
+                'web-test-ykpu.onrender.com',]
 
 
 # Application definition
